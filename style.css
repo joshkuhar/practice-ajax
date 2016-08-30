@@ -1,0 +1,20 @@
+* {
+	border: .01em solid red;
+}
+
+body {
+
+}
+
+header {
+	margin-top: 3em;
+}
+
+section {
+	max-width: 40em;
+	margin: 0 auto;
+}
+
+form {
+	text-align: center;
+}
